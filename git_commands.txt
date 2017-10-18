@@ -1,14 +1,24 @@
+<<<<<<< HEAD
 # The first command to initialize git
+=======
+# The first command to initialise git
+>>>>>>> 00e9a83af2c40e8ad1a9eee34b88176ed95ff784
 git init
 # The second command to tell git keep track my file
 git add filename
 
+<<<<<<< HEAD
 # 3rd command to save 
 git commit -m "message"
+=======
+# 3rd command to save the file
+git commit -m "descriptive message"
+>>>>>>> 00e9a83af2c40e8ad1a9eee34b88176ed95ff784
 
 # 4th command to checkout the file
 git checkout commit_number
 
+<<<<<<< HEAD
 # reverste to the latest version
 git checkout master
 
@@ -16,3 +26,12 @@ git checkout master
 git log [--oneline]
 
 I want to update some info form github
+=======
+# Return to latest or master version
+git checkout master
+
+# See all commits
+git log [--oneline]
+
+# Making some changes in github
+>>>>>>> 00e9a83af2c40e8ad1a9eee34b88176ed95ff784
