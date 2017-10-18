@@ -4,3 +4,4 @@ git init
 git add filename
 
 # 3rd command to save 
+git commit -m "message"
