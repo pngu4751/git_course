@@ -1,0 +1,6 @@
+# The first command to initialize git
+git init
+# The second command to tell git keep track my file
+git add filename
+
+# 3rd command to save 
