@@ -1,2 +1,8 @@
 # The first command to initialise git
 git init
+# The second command to tell git keep track my file
+git add filename
+
+# 3rd command to save the file
+# git commit -m "descriptive message"
+
