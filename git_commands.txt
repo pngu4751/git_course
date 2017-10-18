@@ -4,5 +4,13 @@ git init
 git add filename
 
 # 3rd command to save the file
-# git commit -m "descriptive message"
+git commit -m "descriptive message"
 
+# 4th command to checkout the file
+git checkout commit_number
+
+# Return to latest or master version
+git checkout master
+
+# See all commits
+git log [--oneline]
