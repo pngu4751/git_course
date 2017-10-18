@@ -1,0 +1,17 @@
+# The first command to initialize git
+git init
+# The second command to tell git keep track my file
+git add filename
+
+# 3rd command to save 
+git commit -m "message"
+
+# 4th command to checkout the file
+git checkout commit_number
+
+# reverste to the latest version
+git checkout master
+
+# see all commits
+git log [--oneline]
+
