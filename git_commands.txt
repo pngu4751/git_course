@@ -1,0 +1,2 @@
+# The first command to initialise git
+git init
